@@ -7,7 +7,7 @@ int main() {
 
 	using namespace std;
 
-	setlocale(LC_ALL, "Russian"); //123
+	setlocale(LC_ALL, "Russian"); //1234
 	//Размерность массива
 
 	int n, m;
